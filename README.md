@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-*# 👋 Olá, eu sou o Raí!
+* 👋 Olá, eu sou o Raí!
 
 🎓 Estudante de Engenharia de Software
 🌱 Atualmente aprendendo: Java, Python, HTML, CSS, JS e Firebase
