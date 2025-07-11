@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Raí!
+## **👋 Olá, eu sou o Raí!**
 
 🎓 Estudante de Engenharia de Software
 
